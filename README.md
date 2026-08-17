@@ -1,12 +1,12 @@
 # Hi, I'm Devin Lynch (@dlynch42)
 
-I recently completed my Master's degree in Computer Science at CU Boulder with a 3.95 GPA, where I also earned my undergraduate degree in Economics with a minor in Business. During undergrad, I played football as an inside linebacker.
+I completed my Master's degree from CU Boulder in 2025 for Computer Science and a certificate in Artificial Intelligence. I graduated with a 3.95 GPA, where I also earned my undergraduate degree in Economics with a minor in Business. During undergrad, I played football as an inside linebacker.
 
 ## Professional Skills & Interests
 
 I'm well trained in:
-- Full stack software engineering
-- Data engineering
+- Platform engineering
+- Full stack engineering
 - Machine learning engineering
 - Quantitative development
 
@@ -20,8 +20,8 @@ My areas of interest include:
 ## Technical Skills
 
 ### Programming Languages
-- **Primary**: Python, SQL, TypeScript/JavaScript, C
-- **Familiar**: C family, Java/JVM family, Swift, R, Matlab
+- **Primary**: Python, SQL, TypeScript, Go, C
+- **Familiar**: C++, C#, Java/JVM family, Swift, Rust
 
 ### Frameworks & Libraries
 - **Web Development**: Next.js, Node.js, React
